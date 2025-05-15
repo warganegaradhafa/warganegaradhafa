@@ -12,10 +12,9 @@ I'm a Software Engineering student with experience in building web and mobile ap
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=warganegaradhafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=warganegaradhafa&theme=dark&hide_border=false" height="180"/>
-  
   <br><br>
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=warganegaradhafa&theme=dark&hide_border=false" height="180"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warganegaradhafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
