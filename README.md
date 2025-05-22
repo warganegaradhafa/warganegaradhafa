@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student with experience in building web and mobile applications using ReactJS, Flutter, Java, and RESTful APIs. I previously interned at Petronas Digital Sdn Bhd, where I contributed to internal software development. My recent project, SecuraSync, focuses on integrated residential security systems, reflecting my interest in smart and efficient tech solutions. As the External Relations Lead at Google Developer Group UPM, I also lead partnership and outreach efforts. I'm eager to apply my skills in a dynamic team and contribute to meaningful, user-focused projects.<br>
+I'm a Software Engineering student with experience in building web and mobile applications using ReactJS, Flutter, Java, and RESTful APIs. My recent project, SecuraSync, focuses on integrated residential security systems, reflecting my interest in Flutter and C++. As the External Relations Lead at Google Developer Group UPM, I also lead partnership and outreach efforts. I'm eager to apply my skills in a dynamic team and contribute to meaningful, user-focused projects.<br>
 
 
 ## 🌐 Socials:
