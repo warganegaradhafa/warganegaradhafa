@@ -6,7 +6,7 @@ I’m a Software Engineering student with strong interest in backend systems, fu
 
 💻 Familiar with: Javascript, Java, Flutter, Firebase, JSF, RESTful APIs.
 
-🛠️ Projects:
+# 🛠️ Projects:
 🔐 GuardHub – Security system for one-gate residential clusters (CCTV, patrol, visitor logging).
 ♻️ ReNewbie – A gamified recycling app for Gen Z (UI/UX stage).
 🏨 Everly Signage System – Digital signage revamp at Everly Hotel Putrajaya (Completed).
