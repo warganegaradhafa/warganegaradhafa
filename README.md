@@ -3,6 +3,7 @@
 I’m a Software Engineering student with strong interest in backend systems, full-stack projects, and applied IoT. Currently building my capstone project, GuardHub—an integrated residential security solution focused on real-time surveillance and patrol tracking.
 
 🌱 Currently learning: ReactJS, Agile Scrum, and full-stack integration.
+
 💻 Familiar with: Javascript, Java, Flutter, Firebase, JSF, RESTful APIs.
 
 🛠️ Projects:
