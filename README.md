@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm a Software Engineering student with experience in building web and mobile applications using ReactJS, Flutter, Java, and RESTful APIs. My recent project, GuardHub, focuses on integrated residential security systems, reflecting my interest in Flutter and C++. As the External Relations Lead at Google Developer Group UPM, I also lead partnership and outreach efforts. I'm eager to apply my skills in a dynamic team and contribute to meaningful, user-focused projects.<br>
+# 👋 Hi, I’m Dhafa!
+
+I’m a Software Engineering student with strong interest in backend systems, full-stack projects, and applied IoT. Currently building my capstone project, GuardHub—an integrated residential security solution focused on real-time surveillance and patrol tracking.
+
+🌱 Currently learning: ReactJS, Agile Scrum, and full-stack integration.
+💻 Familiar with: Javascript, Java, Flutter, Firebase, JSF, RESTful APIs.
+
+🛠️ Projects:
+🔐 GuardHub – Security system for one-gate residential clusters (CCTV, patrol, visitor logging).
+♻️ ReNewbie – A gamified recycling app for Gen Z (UI/UX stage).
+🏨 Everly Signage System – Digital signage revamp at Everly Hotel Putrajaya (Completed).
 
 
 ## 🌐 Socials:
